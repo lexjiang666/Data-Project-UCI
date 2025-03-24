@@ -5,6 +5,6 @@ This project analyzes student performance in mathematics using **data science an
 
 ## 🚀 Features
 - 📈 **Data Analysis** – Explore trends and correlations in student performance.
-- 🎯 **Predictive Modeling** – Uses forward, backward, and stepwise regressions to predict student final grades in math.
 - 📊 **Visualization** – Graphs and charts to showcase key insights.
-- 🔍 **Model Evaluation** – Compares different machine learning models for accuracy.
+- 🎯 **Predictive Modeling** – Uses forward, backward, and stepwise regressions to predict student final grades in mathematics.
+- 🔍 **Model Evaluation** – Compares different machine learning models using RMSE(Root Mean Square Error).
